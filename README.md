@@ -76,6 +76,8 @@ I'm **Álvaro**, a student in Málaga, Spain, aiming for **cybersecurity**.
 - Projects: **[Zapper AIO](https://github.com/euZAPUS/zapper-aio-releases)** (all-in-one offline desktop app), **[Zapped](https://github.com/euZAPUS/zapped)** (typing test) and **[ZAP Arcade](https://github.com/euZAPUS/retro-zapp)** (13 retro games). Playable demos at **[alvaro.sangon.eu/en/](https://alvaro.sangon.eu/en/)**.
 - Skills: Linux terminal, dual boot, VirtualBox, Git · **C** (strongest), basic Python/HTML/CSS · learning networking, subnetting and Packet Tracer.
 - English: B2–C1 (not certified yet).
+- On a computer since I was 7: I install, set up and fix Windows and Linux (and I'm my family's tech support).
+- Away from the keyboard: climbing, sports and video games.
 
 **How I work with AI:** I bring the idea, the design, the copy and the testing; I delegate writing the code.
 I review every version by hand before shipping it. Along the way I've learned to sync projects with GitHub,
