@@ -77,6 +77,10 @@ I'm **Álvaro**, a student in Málaga, Spain, aiming for **cybersecurity**.
 - Skills: Linux terminal, dual boot, VirtualBox, Git · **C** (strongest), basic Python/HTML/CSS · learning networking, subnetting and Packet Tracer.
 - English: B2–C1 (not certified yet).
 
+**How I work with AI:** I bring the idea, the design, the copy and the testing; I delegate writing the code.
+I review every version by hand before shipping it. Along the way I've learned to sync projects with GitHub,
+design animations and write good prompts. I say it this way because it's how I actually work.
+
 </details>
 
 ---
